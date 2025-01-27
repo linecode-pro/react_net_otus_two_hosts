@@ -1,1 +1,1 @@
-# react_net_otus_two_hosts
+# Домашнее задание "React and NET" - два хоста
